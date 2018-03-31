@@ -1,1 +1,18 @@
-# blockchain
+...
+npm i nodemon -g
+...
+...
+Install server and client dependencies
+npm install in /server
+npm install in /client
+...
+To start the server and client
+npm start in /server
+npm start in /client
+...
+server: "http://localhost:5000/"
+client: "http://localhost:3000/"
+...
+
+
+
